@@ -3,7 +3,7 @@
 <?php echo do_shortcode( "[SlideDeck2 id=1644]" ); ?>
 
 
-<!--Estilo del home-->
+<!--cambio realizado por esteban-->
 <style type="text/css">
     
         
