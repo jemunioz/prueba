@@ -158,7 +158,7 @@
             <td align="center"><div class="cuadritos">
             					<img src="wp-content/themes/the-newswire/fortalecimiento.png" />
                                 	<div class="cuadritos-1">
-                                   	 <p class="headline">Fortalecimiento<br>Seguridad Vial</p>
+                                   	 <p class="headline">Fo<br>Seguridad Vial</p>
                                     </div>
                                 </div>
             </td>
